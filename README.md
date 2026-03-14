@@ -195,6 +195,8 @@ Interactive filters allow users to explore housing trends based on:
 
 ## Dashboard Preview
 
+[Tableau Visualization](https://public.tableau.com/app/profile/janarrth.srikanth6573/viz/Visualization_f/Dashboard1?publish=yes)
+
 ![image alt](https://github.com/Janarrth28/Melb-Housing/blob/921fc441908d3a07c023c8a6a63af5a9dd3d85f8/dashboard_preview.png)
 
 
@@ -218,4 +220,5 @@ This project demonstrates skills in:
 ## License
 
 This project is open-source and available under the **MIT License**.
+
 

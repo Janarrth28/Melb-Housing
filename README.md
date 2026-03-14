@@ -195,5 +195,27 @@ Interactive filters allow users to explore housing trends based on:
 
 ## Dashboard Preview
 
-*(Add your Tableau dashboard screenshot below)*
+![image alt](https://github.com/Janarrth28/Melb-Housing/blob/921fc441908d3a07c023c8a6a63af5a9dd3d85f8/dashboard_preview.png)
+
+
+## Author
+
+**Janarrth Srikanth**
+
+Bachelor of Computer Science (Data Science)
+
+This project demonstrates skills in:
+
+- Data cleaning and preprocessing
+- Feature engineering
+- Exploratory data analysis
+- Data visualisation
+- Business insight generation
+- Dashboard development
+
+---
+
+## License
+
+This project is open-source and available under the **MIT License**.
 
